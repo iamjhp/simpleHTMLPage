@@ -1,2 +1,2 @@
-# A simple (bad desing) HTML
+# A simple (bad design) HTML
 my first attempt
